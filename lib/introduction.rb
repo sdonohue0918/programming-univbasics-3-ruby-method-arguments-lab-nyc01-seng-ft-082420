@@ -22,6 +22,8 @@ def introduction_with_language_optional(name, language = "Ruby")
   puts "Butts #{name} that your holed up in #{language}."
 end
 
+introduction_with_language_optional("Dingus")
+
 
 
 
