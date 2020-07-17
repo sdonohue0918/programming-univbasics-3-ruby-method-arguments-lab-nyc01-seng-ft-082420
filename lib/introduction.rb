@@ -18,7 +18,7 @@ introduction_with_language("Dweezil", "Ruby")
 
 
 
-def introduction_with_language_optional(name, language = "Ruby")
+def introduction_with_language_optional(name, language = "Python")
   puts "Butts #{name} that your holed up in #{language}."
 end
 
