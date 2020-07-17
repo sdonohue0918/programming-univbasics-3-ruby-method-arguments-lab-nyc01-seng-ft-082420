@@ -18,8 +18,8 @@ introduction_with_language("Dweezil", "Ruby")
 
 
 
-def introduction_with_language_optional(name, language = "Python")
-  puts "Butts #{name} that your holed up in #{language}."
+def introduction_with_language_optional(name, language = "Ruby")
+  puts "Hi, my name is #{name} and I am learning to program in in #{language}."
 end
 
 introduction_with_language_optional("Dingus")
